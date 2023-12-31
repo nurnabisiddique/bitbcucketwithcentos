@@ -16,6 +16,6 @@
      - Choose "SSH keys" under the "Security" section.
      - Add your public key (~/.ssh/id_rsa.pub) to your Bitbucket account**.
 
-4. Verify Connection: To test your connection to Bitbucket, use the following command:
+4. **Verify Connection**: To test your connection to Bitbucket, use the following command:
    
    `$ssh -T git@bitbucket.org`
